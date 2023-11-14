@@ -12,7 +12,7 @@
 |9| Suspicious    |               | [Download Link](https://raw.githubusercontent.com/vigen77/host-files/main/Suspicious.txt) |
 |10| Tracking+Telemetry  |               | [Download Link](https://raw.githubusercontent.com/vigen77/host-files/main/Tracking-Telemetry.txt) |
 |11| Tttest  |               | [Download Link](https://raw.githubusercontent.com/vigen77/host-files/main/Tttest.txt) |
-|12| Tttest  |               | [Download Link](https://raw.githubusercontent.com/vigen77/host-files/main/Tttest1.txt) |
+|12| Tttest1  |               | [Download Link](https://raw.githubusercontent.com/vigen77/host-files/main/Tttest1.txt) |
 
 
 
